@@ -1,7 +1,7 @@
 # BME680z
 Python Library for Bosch BME680 Sensor via I2C
 
-<code>
+.. code:: python
   import board
   import busio
   import bme680z
@@ -13,4 +13,4 @@ Python Library for Bosch BME680 Sensor via I2C
   bme.humidty
   bme.pressure
   bme.gas
-</code>
+
